@@ -61,3 +61,10 @@ class Main {
     }
   }
 }
+//1.sum
+2.sub
+  3.mul
+  4.div
+  5.pow
+  2 0
+  2
